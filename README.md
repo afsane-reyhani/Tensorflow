@@ -1,7 +1,7 @@
 # Tensorflow <br>
 It's all about learning Tensorflow <br>
-## install tensorflow on last version of anaconda <br>
-###tensorflow=2<br>
+## install tensorflow on last version of anaconda  windows<br>
+### tensorflow=2<br>
 The first stage<br>
 conda create --name tf2 python = 3.7<br>
 
@@ -32,7 +32,7 @@ tf .__ version__<br>
 
 Now to get out of Python<br>
 quit ()<br>
-
+### tensorflow=1.14<br>
 Now, if you need to get used to tensorflow 1 . we'll start building the environment again.<br>
 If you want to install Tensorflow 1.14, I heard Python 3.6 is good then:<br>
 
@@ -50,6 +50,7 @@ tf .__ version__<br>
 And finally<br>
 
 quit ()<br>
+### tensorflow=1<br>
 If you want the latest version of Tensorflow=1<br>
 conda create --name tf1 python = 3.7<br>
 
